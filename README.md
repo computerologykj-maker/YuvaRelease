@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="YUVA: a colourful aim trainer for Windows" width="100%">
+  <img src="logo.png" alt="YUVA logo" width="160">
 </p>
 
 <h3 align="center">Train your aim. Measure every flick. Free, local, no account.</h3>
